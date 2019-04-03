@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springcloud2.0-zhoufeng-config-server
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 2514385224
+Implementation-Vendor-Id: com.jju.springcloud
+Build-Jdk: 1.8.0_91
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springcloud2.0-zhoufeng-config-server
+Created-By: Maven Integration for Eclipse
+

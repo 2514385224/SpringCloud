@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: springcloud2.0-zhoufeng-api-order-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 2514385224
+Implementation-Vendor-Id: com.jju.springcloud
+Build-Jdk: 1.8.0_91
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springcoutd2.0-zhoufeng-parent/springcloud2.0-zhouf
+ eng-api-service/springcloud2.0-zhoufeng-api-order-service
+Created-By: Maven Integration for Eclipse
+
